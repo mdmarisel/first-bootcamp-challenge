@@ -11,9 +11,7 @@ It made the code look more clean for any other developers who read it.
 - What did you learn?
 I learned more about how to use semantic elements and apply them to CSS.
 
-<<<<<<< HEAD
-=======
 https://mdmarisel.github.io/first-bootcamp-challenge/
->>>>>>> 817e9f3da490ba5e6891738a741a54ebc4d2bdcc
+
 
 ![screenshot](./assets/images/screenshot.png)
